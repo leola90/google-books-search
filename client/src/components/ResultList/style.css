@@ -1,0 +1,12 @@
+.card {
+  border: 1px solid black;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+}
+.leftblock, .rightblock {
+  display: inline-block;
+}
+
